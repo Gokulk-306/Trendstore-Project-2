@@ -75,6 +75,10 @@ Note : I paused the worker nodes and deleted the LoadBalancer to eliminate EC2 a
 ---
 
 ## 📸 Screenshots & Evidence
+
+📂 **Screenshots Drive Link:**  
+👉 [Click here to view screenshots](https://docs.google.com/document/d/1OZ10wY2BJUhac8w_UX3UkkUmgrmeCYxIN_G5_hqYwv0/edit?usp=sharing)
+
 Screenshots include:
 - Docker build & push
 - Jenkins pipeline stages
