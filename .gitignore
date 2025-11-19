@@ -1,0 +1,53 @@
+# -------------------------
+# Node / Vite
+# -------------------------
+node_modules/
+dist/
+*.log
+*.tmp
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# -------------------------
+# Terraform
+# -------------------------
+.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# -------------------------
+# AWS Auth (DO NOT PUSH)
+# -------------------------
+aws-auth.yaml
+
+# -------------------------
+# Docker
+# -------------------------
+*.tar
+
+# -------------------------
+# OS / Editor
+# -------------------------
+.DS_Store
+.vscode/
+.idea/
+
+# -------------------------
+# Python / Jenkins
+# -------------------------
+__pycache__/
+*.pyc
+
+# -------------------------
+# Env files
+# -------------------------
+*.env
+.env.local
