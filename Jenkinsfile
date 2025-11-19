@@ -11,7 +11,7 @@ pipeline {
 
         stage('Checkout Code') {
             steps {
-                git branch: 'main', url: 'https://github.com/Gokulk-306/trendstore.git'
+                git branch: 'main', url: 'https://github.com/Gokulk-306/Trendstore-Project-2.git'
             }
         }
 
