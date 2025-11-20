@@ -86,5 +86,7 @@ Screenshots include:
 - LoadBalancer output
 - Grafana dashboards
 - Application running in browser
+- Terraform init, apply 
+- Jenkins output console
 
 ---
